@@ -1,0 +1,13 @@
+.sider {
+  background: white !important;
+}
+
+.logo {
+  min-height: 50px;
+}
+
+.content {
+  margin: 24px 16px;
+  padding: 24px;
+  min-height: 80vh;
+}
